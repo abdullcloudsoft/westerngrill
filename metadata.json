@@ -1,0 +1,6 @@
+{
+  "name": "Western Grill",
+  "description": "Western Grill in Commercial Market, Satellite Town, Rawalpindi. Explore grilled favorites, steaks, BBQ, pasta, buffet, hi-tea and more.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
